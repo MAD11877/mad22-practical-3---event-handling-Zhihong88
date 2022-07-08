@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Zhihong/Ngeeannpoly/Ngee ann poly year 3 sem 1/practical/Mobile application development/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Zhihong/Ngeeannpoly/Ngee ann poly year 3 sem 1/practical/Mobile application development/app/src/main/res/layout/activity_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Zhihong/Ngeeannpoly/Ngee ann poly year 3 sem 1/practical/Mobile application development/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Zhihong/Ngeeannpoly/Ngee ann poly year 3 sem 1/practical/Mobile application development/app/src/main/res/layout/activity_message_groups.xml" value="0.36666666666666664" />
+        <entry key="..\:/Zhihong/Ngeeannpoly/Ngee ann poly year 3 sem 1/practical/Mobile application development/app/src/main/res/layout/fragment_frame__group2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Zhihong/Ngeeannpoly/Ngee ann poly year 3 sem 1/practical/Mobile application development/app/src/main/res/layout/fragment_frame_group1.xml" value="0.1" />
       </map>
     </option>
   </component>
